@@ -1,0 +1,161 @@
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\csc.exe
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\vbc.exe
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\Quest.dll.config
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\Quest.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\Quest.pdb
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Helpers.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Mvc.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Razor.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Webpages.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Webpages.Razor.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Razor.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Webpages.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Webpages.Razor.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Helpers.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\System.Web.Mvc.xml
+C:\Users\Valkyrie\Desktop\Quest\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\Valkyrie\Desktop\Quest\Quest\obj\Debug\Quest.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\obj\Debug\Quest.pdb
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\AjaxControlToolkit.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\AjaxControlToolkit.pdb
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest\Quest\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\csc.exe
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\vbc.exe
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\VBCSCompiler.exe
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\Quest.dll.config
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\Quest.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\Quest.pdb
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\AjaxControlToolkit.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\EntityFramework.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\EntityFramework.SqlServer.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Helpers.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Mvc.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Razor.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Webpages.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Webpages.Razor.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\AjaxControlToolkit.pdb
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\EntityFramework.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\EntityFramework.SqlServer.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Razor.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Webpages.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Webpages.Razor.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Helpers.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\System.Web.Mvc.xml
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\obj\Debug\Quest.csprojResolveAssemblyReference.cache
+C:\Users\Valkyrie\Desktop\Quest2\Quest\obj\Debug\Quest.dll
+C:\Users\Valkyrie\Desktop\Quest2\Quest\obj\Debug\Quest.pdb
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\csc.exe
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\vbc.exe
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Advanced SW\Quest2\Quest\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Advanced SW\Quest2\Quest\bin\Quest.dll.config
+D:\Projects\Advanced SW\Quest2\Quest\bin\Quest.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\Quest.pdb
+D:\Projects\Advanced SW\Quest2\Quest\bin\EntityFramework.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\EntityFramework.SqlServer.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Helpers.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Mvc.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Razor.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Webpages.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Webpages.Razor.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\AjaxControlToolkit.pdb
+D:\Projects\Advanced SW\Quest2\Quest\bin\EntityFramework.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\EntityFramework.SqlServer.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Razor.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Webpages.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Webpages.Razor.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Helpers.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\System.Web.Mvc.xml
+D:\Projects\Advanced SW\Quest2\Quest\bin\ar\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\cs\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\de\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\es\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\fr\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\he\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\hi\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\it\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\ja\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\ko\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\nl\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\pt\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\ru\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Projects\Advanced SW\Quest2\Quest\obj\Debug\Quest.csproj.AssemblyReference.cache
+D:\Projects\Advanced SW\Quest2\Quest\obj\Debug\Quest.csproj.CoreCompileInputs.cache
+D:\Projects\Advanced SW\Quest2\Quest\obj\Debug\Quest.dll
+D:\Projects\Advanced SW\Quest2\Quest\obj\Debug\Quest.pdb

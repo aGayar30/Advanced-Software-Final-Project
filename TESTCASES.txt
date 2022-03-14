@@ -1,0 +1,42 @@
+	///// Testing each class individually
+	User class possible sequence:
+register_in_the_Application,pay,[book_a_trip|rent_a_car|request_a_driver|requesta tourguide|rateVisitedPlaces|searchForEntertainmentPlaces|selectRestaurants|selectActivityPlaces|selectHistoricalPlaces|rate_the_Application|search_for_spots_in _the Capital ]^n
+	Admin class possible sequence:
+Login, [showListOfUsers|confirm_travel_agency_regestiration|confirm_car_travel_agency_
+regestiration|addEntertainmentPlaces|mainipulateEntertainmentPlacesData|addSpots|manipulateSpotsData〖 ]〗^n
+	Payment possible sequence:
+[showRequiredPayments|recordPayments|showRecordedPayments]^n
+	Pay_by_Visa
+[getSerialNumber|setSerialNumber]^n
+	Pay_Cash 
+[getLocationOfPayment]^n
+	Travel Agency
+register_in_the_Application,[addTrips|record_tour_guide_requests|manipulateTripsData| fillFormWithTravelAgencyData| fillFormWithOfferedTrips〖 ]〗^n, cancel_the_registration
+	Car Agency
+register_in_the_Application,[addCarsData|record_driver_requests|fillFormWithCarAgencyData|fillFormWithOfferedCarsData|manipulateCarsData]^n, cancel_the_registration
+	Car
+[getCarsInfo|showAvailableCar]^n
+	Trip
+[getTripsInfo|showAvailableTrips]^n
+	Entertainment Place
+[getEntertainment PlaceInfo|ShowAvaliablePlaces]^n
+	Resturant
+[getResturantType|setResturantType]^n
+	Activity Place
+[getActivityPlaceType|setActivityPlaceType]^n
+	Historical Place
+[getBuiltDate|setBuiltDate]^n
+	Capital Spot
+[getCapitalSpotInfo|ShowAvaliableSpots]^n
+////////////////Testing each component= Unit testing
+
+	User Manager, Admin Manager, Activity Manager, Travel Manager, Car Manager
+
+////////////////////// Integration Testing
+	User Manager Component and Activity Manager
+	User Manager Component and Travel Manager
+	User Manager Component and Car Manager
+	Admin Manager and Activity Manager
+	Admin Manager Component and Travel Manager
+	Admin Manager Component and Car Manager
+
